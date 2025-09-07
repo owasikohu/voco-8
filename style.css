@@ -1,0 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  width: 100vw;   /* ビューポート幅いっぱい */
+  height: 100vh;  /* ビューポート高さいっぱい */
+  display: block; /* スクロールバー対策 */
+}
